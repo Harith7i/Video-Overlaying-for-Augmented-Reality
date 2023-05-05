@@ -3,5 +3,5 @@ The program first captures the live video feed and processes each frame using th
 
 Once the mask has been created, a video can be overlaid onto the image using the mask. The program allows users to customize the video that is overlaid onto the image by editing the mp4 file. Users can also adjust the detection parameters in the overlay.py file, such as the minimum number of matches required for a detection, to fine-tune the application's performance.
 
-![](https://
-Video-Overlaying-for-Augmented-Reality/demo.gif)
+![]([https://
+Video-Overlaying-for-Augmented-Reality/demo.gif](https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality/blob/main/demo.gif))
