@@ -32,9 +32,9 @@ python3 AR-Video-Overlay.py
 
 
 3.Enter the image target path the video to overlay path.
+<br>
 
-
-4. Adjust the detection parameters in the `overlay.py` file to fine-tune the application's performance.
+4. Adjust the detection parameters in the `AR-Video-Overlay.py` file to fine-tune the application's performance.
 
 
 
