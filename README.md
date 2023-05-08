@@ -13,13 +13,15 @@ Once the mask has been created, a video can be overlaid onto the image using the
 
 ## Installation
 To run this project, you'll need to have Python 3 installed on your machine. You'll also need to install the following libraries:
--[installation](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks))
--[NumPy]
 
+-[OpenCV](https://opencv.org/)
+-[NumPy](https://numpy.org/)
+
+After intalling the necessary libraries, clone the repository to your local machine.
 ```
 git clone https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality.git
 ```
-
+## Usage
 ```
 python3 AR-Video-Overlay.py
 ```
