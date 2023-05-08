@@ -6,3 +6,8 @@ Once the mask has been created, a video can be overlaid onto the image using the
 ![](https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality/blob/main/demo.gif)
   
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
