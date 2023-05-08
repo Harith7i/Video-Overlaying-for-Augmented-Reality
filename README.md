@@ -27,7 +27,7 @@ git clone https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality.git
 ```
 python3 AR-Video-Overlay.py
 ```
-<br />
+
 2.Point your web camera at a flat surface with an image to detect. 
 
 
