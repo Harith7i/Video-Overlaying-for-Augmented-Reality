@@ -23,13 +23,14 @@ After intalling the necessary libraries, clone the repository to your local mach
 git clone https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality.git
 ```
 ## Usage
+<br />
 1. Run the the following script in your terminal:
 ```
 python3 AR-Video-Overlay.py
 ```
-  2.Point your web camera at a flat surface with an image to detect.
-~~~~~ 3.Enter the image target path the video to overlay path.
-
+<br />
+2.Point your web camera at a flat surface with an image to detect. <br />
+3.Enter the image target path the video to overlay path.<br />
 4. Adjust the detection parameters in the `overlay.py` file to fine-tune the application's performance.
 
 
