@@ -23,7 +23,6 @@ After intalling the necessary libraries, clone the repository to your local mach
 git clone https://github.com/Harith7i/Video-Overlaying-for-Augmented-Reality.git
 ```
 ## Usage
-<br />
 1. Run the the following script in your terminal:
 ```
 python3 AR-Video-Overlay.py
