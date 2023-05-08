@@ -13,7 +13,7 @@ Once the mask has been created, a video can be overlaid onto the image using the
 
 ## Installation
 To run this project, you'll need to have Python 3 installed on your machine. You'll also need to install the following libraries:
--[OpenCV]
+-(#installation)
 -[NumPy]
 
 ```
